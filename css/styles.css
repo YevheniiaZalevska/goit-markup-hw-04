@@ -232,6 +232,16 @@ button:focus {
     padding: 120px 0;
 }
 
+.icon-section-two-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
 /* section 3 */
 
 .section-three-main {
