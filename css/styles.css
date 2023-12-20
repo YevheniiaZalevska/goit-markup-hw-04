@@ -448,9 +448,6 @@ button:focus {
 .container.footer {
     display: flex;
     align-items: baseline;
-}
-
-.footer-logo-text {
     margin-right: 120px;
 }
 
