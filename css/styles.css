@@ -475,6 +475,7 @@ button:focus {
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 50%;
 }
 
 .social-media-list-item-link:hover {
